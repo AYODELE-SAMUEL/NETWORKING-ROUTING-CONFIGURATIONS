@@ -18,3 +18,36 @@
 -<b>PCs / End devices<b/>
 
 -<b>Cables (Serial, Copper straight-through)<b/>
+
+
+## Static routing is used because it:
+
+-<b>Gives full control over routing paths
+
+-<b>Consumes no bandwidth (no routing updates sent)
+
+-<b>Is more secure (no route advertisements)
+
+-<b>Is predictable and stable
+
+-<b>Works well for small or simple networks
+
+-<b>Common real-world use cases
+
+-<b>Small office networks
+
+-<b>Stub networks (networks with only one exit path)
+
+-<b>Backup routes
+
+-<b>Default routes to the internet
+
+
+
+
+
+
+
+
+
+
